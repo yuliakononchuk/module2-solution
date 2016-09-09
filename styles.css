@@ -27,7 +27,7 @@ body {
 .button-container {
     position: relative;
     height: 200px;
-    margin: 1%;
+    margin: 10px;
     font-family: 'Cabin';
     background-color: #EFD469;
     border-radius: 15px;
@@ -66,7 +66,7 @@ body {
     border: 1px solid black;
   }
   .col-lg {
-    width: 31.3%;
+    width: 32%;
   }
 }
 
@@ -77,7 +77,7 @@ body {
     border: 1px solid black;
   }
   .col-md-half {
-    width: 48%;
+    width: 48.5%;
   }
   .col-md-full {
     width: 98%;
