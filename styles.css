@@ -10,6 +10,16 @@ body {
     font-size: 140%;
     }
 
+.button-container {
+    position: relative;
+    height: 200px;
+    margin-right: 10px;
+    margin-top: 10px;
+    font-family: 'Cabin';
+    background-color: #EFD469;
+    border-radius: 15px;
+}
+
 .button {
     border: 1px solid black;
     position: absolute;
@@ -22,15 +32,6 @@ body {
     font-size: 100%;
     text-align: center;
     border-style: dotted;
-}
-
-.button-container {
-    position: relative;
-    height: 200px;
-    margin: 10px;
-    font-family: 'Cabin';
-    background-color: #EFD469;
-    border-radius: 15px;
 }
 
 .text {
@@ -53,8 +54,6 @@ body {
 #b3 {
   background-color: #C02F1D;
 }
-
-
 
 .row {
   width: 100%;
